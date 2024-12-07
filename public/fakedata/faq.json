@@ -1,0 +1,104 @@
+[
+  {
+    "category": "AI & Automation",
+    "questions": [
+      {
+        "question": "What types of AI solutions do you offer?",
+        "answer": "We offer a comprehensive range of AI solutions including custom chatbots, process automation, predictive analytics, machine learning implementations, and natural language processing. Our solutions are tailored to your specific business needs and industry requirements."
+      },
+      {
+        "question": "How long does AI implementation typically take?",
+        "answer": "Implementation timelines vary based on the complexity of the solution, typically ranging from 4-12 weeks. Basic chatbot implementations can be completed in 2-4 weeks, while more complex enterprise solutions may take 3-6 months."
+      },
+      {
+        "question": "What ROI can I expect from AI implementation?",
+        "answer": "Most clients see ROI within 6-12 months. Common results include 40-60% reduction in operational costs, 70% improvement in response times, and 30-50% increase in customer satisfaction rates."
+      }
+    ]
+  },
+  {
+    "category": "Business Formation",
+    "questions": [
+      {
+        "question": "What business formation services do you provide?",
+        "answer": "We provide comprehensive business formation services including entity selection, state registration, EIN acquisition, business licensing, compliance setup, and ongoing compliance monitoring. We also assist with bank account setup and initial business documentation."
+      },
+      {
+        "question": "How long does it take to form a business?",
+        "answer": "Basic business formation can be completed in 5-10 business days. More complex setups or those requiring special licensing may take 2-4 weeks. We also offer expedited services for urgent needs."
+      },
+      {
+        "question": "What ongoing support do you provide after formation?",
+        "answer": "We provide continued support including annual report filing, compliance monitoring, registered agent services, and business license renewals. Our team also assists with any changes or amendments to your business structure."
+      }
+    ]
+  },
+  {
+    "category": "Payroll & HR",
+    "questions": [
+      {
+        "question": "What does your payroll service include?",
+        "answer": "Our payroll service includes automated payroll processing, tax calculations and filings, direct deposit, employee self-service portals, time tracking, benefits administration, and compliance monitoring. We also provide detailed reporting and analytics."
+      },
+      {
+        "question": "How do you ensure payroll compliance?",
+        "answer": "We maintain up-to-date knowledge of federal, state, and local tax laws, automatically calculate and file taxes, and provide regular compliance audits. Our system automatically updates for tax law changes and new regulations."
+      },
+      {
+        "question": "Can you handle multiple states and jurisdictions?",
+        "answer": "Yes, our payroll system handles multi-state and multi-jurisdiction requirements, including different tax rates, compliance requirements, and reporting obligations for each location."
+      }
+    ]
+  },
+  {
+    "category": "Insurance Services",
+    "questions": [
+      {
+        "question": "What types of business insurance do you offer?",
+        "answer": "We offer comprehensive business insurance solutions including general liability, professional liability, workers' compensation, cyber insurance, property insurance, and industry-specific coverage options."
+      },
+      {
+        "question": "How do you determine insurance needs?",
+        "answer": "We conduct thorough risk assessments to identify your specific insurance needs based on your industry, business size, location, and operations. This includes analyzing potential risks and recommending appropriate coverage levels."
+      },
+      {
+        "question": "Do you help with claims management?",
+        "answer": "Yes, we provide full claims management support, helping you file claims, track their progress, and negotiate with insurance providers to ensure fair and timely settlements."
+      }
+    ]
+  },
+  {
+    "category": "Strategic Growth",
+    "questions": [
+      {
+        "question": "What does strategic growth consulting involve?",
+        "answer": "Our strategic growth consulting includes market analysis, competitive assessment, growth strategy development, performance optimization, digital transformation planning, and implementation support. We focus on creating actionable plans for sustainable growth."
+      },
+      {
+        "question": "How do you measure success?",
+        "answer": "We establish clear KPIs and metrics at the start of each engagement, regularly track progress, and provide detailed reporting on outcomes. Common metrics include revenue growth, market share, operational efficiency, and ROI."
+      },
+      {
+        "question": "What industries do you specialize in?",
+        "answer": "We have expertise across multiple industries including technology, healthcare, manufacturing, retail, and professional services. Our team has deep experience in both traditional and emerging markets."
+      }
+    ]
+  },
+  {
+    "category": "Grants & Funding",
+    "questions": [
+      {
+        "question": "What types of funding assistance do you provide?",
+        "answer": "We assist with government grants, small business loans, venture capital preparation, angel investment pitches, and other funding opportunities. Our services include funding research, application preparation, and ongoing support."
+      },
+      {
+        "question": "What is your success rate with grant applications?",
+        "answer": "Our grant application success rate is consistently above 70%, thanks to our thorough research, strong writing team, and deep understanding of grant requirements and evaluation criteria."
+      },
+      {
+        "question": "How long does the funding process take?",
+        "answer": "The timeline varies by funding type. Grant applications typically take 4-8 weeks to prepare and 3-6 months for approval. Loan applications can be processed in 2-4 weeks, while equity funding may take 3-6 months."
+      }
+    ]
+  }
+] 

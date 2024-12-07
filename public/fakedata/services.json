@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "AI & Automation Solutions",
+    "category": "Technology",
+    "image": "/images/services/ai-automation.jpg",
+    "description": "Transform your business operations with our cutting-edge AI and automation solutions. From chatbots to workflow automation, we help you leverage the power of artificial intelligence.",
+    "features": [
+      "Custom AI Implementation",
+      "Process Automation",
+      "Machine Learning Solutions",
+      "Natural Language Processing",
+      "Predictive Analytics"
+    ],
+    "benefits": [
+      "Increased Efficiency",
+      "Cost Reduction",
+      "24/7 Operations",
+      "Improved Accuracy",
+      "Scalable Solutions"
+    ],
+    "icon": "bi-robot"
+  },
+  {
+    "id": 2,
+    "title": "Business Formation Services",
+    "category": "Legal",
+    "image": "/images/services/business-formation.jpg",
+    "description": "Start your business journey with confidence. Our comprehensive business formation services handle everything from registration to compliance.",
+    "features": [
+      "Entity Formation",
+      "Business Registration",
+      "Compliance Setup",
+      "Tax ID Registration",
+      "Business Licensing"
+    ],
+    "benefits": [
+      "Legal Compliance",
+      "Tax Efficiency",
+      "Limited Liability",
+      "Professional Setup",
+      "Fast Processing"
+    ],
+    "icon": "bi-building"
+  },
+  {
+    "id": 3,
+    "title": "Payroll & HR Management",
+    "category": "HR",
+    "image": "/images/services/payroll-hr.jpg",
+    "description": "Streamline your workforce management with our integrated payroll and HR solutions. From payroll processing to employee benefits administration.",
+    "features": [
+      "Automated Payroll",
+      "Benefits Administration",
+      "Time Tracking",
+      "Tax Compliance",
+      "Employee Self-Service"
+    ],
+    "benefits": [
+      "Accurate Payments",
+      "Time Savings",
+      "Compliance Assurance",
+      "Employee Satisfaction",
+      "Reduced Errors"
+    ],
+    "icon": "bi-people"
+  },
+  {
+    "id": 4,
+    "title": "Insurance Services",
+    "category": "Insurance",
+    "image": "/images/services/insurance.jpg",
+    "description": "Protect your business with comprehensive insurance solutions. We help you identify and secure the right coverage for your specific needs.",
+    "features": [
+      "Business Insurance",
+      "Workers Compensation",
+      "Liability Coverage",
+      "Risk Assessment",
+      "Claims Management"
+    ],
+    "benefits": [
+      "Risk Mitigation",
+      "Peace of Mind",
+      "Legal Compliance",
+      "Asset Protection",
+      "Financial Security"
+    ],
+    "icon": "bi-shield-check"
+  },
+  {
+    "id": 5,
+    "title": "Strategic Growth Consulting",
+    "category": "Consulting",
+    "image": "/images/services/strategic-growth.jpg",
+    "description": "Accelerate your business growth with our strategic consulting services. We help you identify opportunities and implement effective growth strategies.",
+    "features": [
+      "Market Analysis",
+      "Growth Strategy",
+      "Performance Optimization",
+      "Digital Transformation",
+      "Innovation Planning"
+    ],
+    "benefits": [
+      "Increased Revenue",
+      "Market Expansion",
+      "Competitive Edge",
+      "Sustainable Growth",
+      "ROI Maximization"
+    ],
+    "icon": "bi-graph-up"
+  },
+  {
+    "id": 6,
+    "title": "Grants & Funding",
+    "category": "Finance",
+    "image": "/images/services/grants-funding.jpg",
+    "description": "Access the funding you need to grow your business. Our grants and funding services help you identify and secure financial opportunities.",
+    "features": [
+      "Grant Writing",
+      "Funding Research",
+      "Application Support",
+      "Compliance Review",
+      "Financial Planning"
+    ],
+    "benefits": [
+      "Access to Capital",
+      "Expert Guidance",
+      "Higher Success Rate",
+      "Timely Submission",
+      "Ongoing Support"
+    ],
+    "icon": "bi-cash-stack"
+  }
+] 

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "How AI is Transforming Small Business Operations in 2024",
+    "slug": "ai-transforming-small-business-2024",
+    "category": "AI & Technology",
+    "author": "Angel Lewis-Jefferson",
+    "date": "March 15, 2024",
+    "image": "/images/blog/ai-business.jpg",
+    "summary": "Discover how small businesses are leveraging AI to automate operations and drive growth in 2024.",
+    "content": "In today's rapidly evolving business landscape, AI has become an essential tool for small businesses looking to stay competitive. From customer service automation to predictive analytics, learn how AI is helping businesses reduce costs and improve efficiency.",
+    "tags": ["AI", "Small Business", "Automation", "Technology"]
+  },
+  {
+    "id": 2,
+    "title": "Complete Guide to Business Formation in New Mexico",
+    "slug": "business-formation-guide-nm",
+    "category": "Business Formation",
+    "author": "Rick Jefferson",
+    "date": "March 10, 2024",
+    "image": "/images/blog/business-formation.jpg",
+    "summary": "Everything you need to know about forming a business in New Mexico, from choosing your structure to obtaining licenses.",
+    "content": "Starting a business in New Mexico requires careful planning and understanding of state regulations. This comprehensive guide walks you through the entire process, ensuring you meet all legal requirements.",
+    "tags": ["Business Formation", "New Mexico", "Legal", "Startup"]
+  },
+  {
+    "id": 3,
+    "title": "2024 Payroll & HR Compliance Updates",
+    "slug": "payroll-hr-compliance-2024",
+    "category": "HR & Payroll",
+    "author": "Sarah Chen",
+    "date": "March 5, 2024",
+    "image": "/images/blog/payroll-hr.jpg",
+    "summary": "Stay compliant with the latest payroll and HR regulations affecting businesses in 2024.",
+    "content": "Keep your business compliant with the latest payroll and HR regulations. From minimum wage updates to new employment laws, we cover everything you need to know for 2024.",
+    "tags": ["Payroll", "HR", "Compliance", "Regulations"]
+  },
+  {
+    "id": 4,
+    "title": "Essential Insurance Coverage for Modern Businesses",
+    "slug": "essential-business-insurance-guide",
+    "category": "Insurance",
+    "author": "Marcus Rodriguez",
+    "date": "February 28, 2024",
+    "image": "/images/blog/insurance.jpg",
+    "summary": "Understanding the key insurance policies every business needs in today's digital age.",
+    "content": "Protect your business with the right insurance coverage. Learn about essential policies including cyber insurance, professional liability, and business interruption coverage.",
+    "tags": ["Insurance", "Risk Management", "Business Protection"]
+  },
+  {
+    "id": 5,
+    "title": "Strategic Growth Planning for 2024",
+    "slug": "strategic-growth-2024",
+    "category": "Business Strategy",
+    "author": "Angel Lewis-Jefferson",
+    "date": "February 20, 2024",
+    "image": "/images/blog/strategy.jpg",
+    "summary": "Develop a robust growth strategy for your business in 2024 and beyond.",
+    "content": "Create a successful growth strategy for your business. From market analysis to implementation planning, learn how to scale your business effectively.",
+    "tags": ["Strategy", "Growth", "Planning", "Business Development"]
+  },
+  {
+    "id": 6,
+    "title": "Government Grants and Funding Opportunities in 2024",
+    "slug": "government-grants-2024",
+    "category": "Funding",
+    "author": "Lisa Thompson",
+    "date": "February 15, 2024",
+    "image": "/images/blog/funding.jpg",
+    "summary": "Explore available government grants and funding options for businesses in 2024.",
+    "content": "Discover the latest government grants and funding opportunities available for businesses. Learn about application processes, eligibility requirements, and tips for successful applications.",
+    "tags": ["Grants", "Funding", "Government", "Finance"]
+  },
+  {
+    "id": 7,
+    "title": "Maximizing ROI with Business Automation",
+    "slug": "automation-roi-guide",
+    "category": "Automation",
+    "author": "Rick Jefferson",
+    "date": "February 10, 2024",
+    "image": "/images/blog/automation.jpg",
+    "summary": "Learn how to measure and maximize ROI from your business automation investments.",
+    "content": "Understand how to calculate and optimize the return on investment from your automation initiatives. Includes case studies and practical implementation strategies.",
+    "tags": ["Automation", "ROI", "Efficiency", "Technology"]
+  },
+  {
+    "id": 8,
+    "title": "Building a Strong Business Foundation",
+    "slug": "strong-business-foundation",
+    "category": "Business Basics",
+    "author": "Angel Lewis-Jefferson",
+    "date": "February 5, 2024",
+    "image": "/images/blog/foundation.jpg",
+    "summary": "Essential steps for building a strong foundation for your business success.",
+    "content": "Learn the crucial elements needed to build a strong foundation for your business, from legal structure to operational systems and growth planning.",
+    "tags": ["Business Planning", "Foundation", "Success", "Growth"]
+  }
+]

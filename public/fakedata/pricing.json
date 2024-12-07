@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Startup Essentials",
+    "price": "999",
+    "duration": "month",
+    "description": "Perfect for new businesses getting started with AI and automation",
+    "features": [
+      "Basic AI Chatbot",
+      "Email Automation",
+      "Business Formation Support",
+      "Basic Payroll Processing",
+      "Essential Insurance Coverage",
+      "5 Automated Workflows",
+      "Monthly Performance Reports",
+      "8/5 Support"
+    ],
+    "recommended": false,
+    "buttonText": "Get Started",
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Business Growth",
+    "price": "2499",
+    "duration": "month",
+    "description": "Ideal for growing businesses needing comprehensive solutions",
+    "features": [
+      "Advanced AI Chatbot",
+      "Full Process Automation",
+      "Complete Business Formation",
+      "Full-Service Payroll & HR",
+      "Comprehensive Insurance",
+      "15 Custom Workflows",
+      "Weekly Analytics Reports",
+      "24/7 Priority Support",
+      "Strategic Growth Planning",
+      "Grant Application Support"
+    ],
+    "recommended": true,
+    "buttonText": "Most Popular",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Enterprise Solutions",
+    "price": "4999",
+    "duration": "month",
+    "description": "Enterprise-grade solutions for large organizations",
+    "features": [
+      "Custom AI Solutions",
+      "Enterprise Automation",
+      "Multi-Entity Management",
+      "Enterprise HR Suite",
+      "Custom Insurance Portfolio",
+      "Unlimited Workflows",
+      "Real-time Analytics",
+      "24/7 Dedicated Support",
+      "Strategic Consulting",
+      "Full Funding Support",
+      "Custom Integrations",
+      "Dedicated Account Manager"
+    ],
+    "recommended": false,
+    "buttonText": "Contact Us",
+    "popular": false
+  },
+  {
+    "id": 4,
+    "name": "AI Implementation",
+    "price": "1499",
+    "duration": "month",
+    "description": "Focused AI and automation implementation package",
+    "features": [
+      "Custom AI Chatbot",
+      "Process Automation",
+      "Machine Learning Solutions",
+      "Data Analytics",
+      "API Integration",
+      "10 Custom Workflows",
+      "Performance Dashboard",
+      "Technical Support",
+      "Training & Documentation"
+    ],
+    "recommended": false,
+    "buttonText": "Learn More",
+    "popular": false
+  },
+  {
+    "id": 5,
+    "name": "Business Services",
+    "price": "1999",
+    "duration": "month",
+    "description": "Comprehensive business management services",
+    "features": [
+      "Business Formation",
+      "Payroll Processing",
+      "HR Management",
+      "Insurance Coverage",
+      "Compliance Monitoring",
+      "Document Management",
+      "Financial Reporting",
+      "Business Advisory",
+      "Legal Support"
+    ],
+    "recommended": false,
+    "buttonText": "Get Started",
+    "popular": false
+  }
+] 

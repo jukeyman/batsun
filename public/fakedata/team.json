@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "name": "Angel Lewis-Jefferson",
+    "role": "CEO & Co-Founder",
+    "image": "/images/team/angel-lewis-jefferson.jpg",
+    "bio": "Angel Lewis-Jefferson is a visionary leader with over 15 years of experience in business development and strategic growth. As CEO of RJ Business Solutions, she leads the company's mission to empower businesses through innovative solutions and comprehensive services.",
+    "expertise": [
+      "Strategic Planning",
+      "Business Development",
+      "AI Implementation",
+      "Client Relations",
+      "Growth Strategy"
+    ],
+    "certifications": [
+      "Certified Business Consultant",
+      "Project Management Professional (PMP)",
+      "Six Sigma Black Belt",
+      "AI Implementation Specialist"
+    ],
+    "education": [
+      "MBA, Business Administration",
+      "BS, Business Management",
+      "AI Strategy Certification"
+    ],
+    "social": {
+      "linkedin": "https://linkedin.com/in/angel-lewis-jefferson",
+      "twitter": "https://twitter.com/angellj"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rick Jefferson",
+    "role": "CTO & Co-Founder",
+    "image": "/images/team/rick-jefferson.jpg",
+    "bio": "Rick Jefferson is a technology innovator with extensive experience in AI, automation, and digital transformation. As CTO, he leads the technical vision of RJ Business Solutions, ensuring cutting-edge solutions for our clients.",
+    "expertise": [
+      "Artificial Intelligence",
+      "Process Automation",
+      "Digital Transformation",
+      "Technology Strategy",
+      "Solution Architecture"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect",
+      "Google Cloud Professional",
+      "Microsoft Azure Expert",
+      "AI/ML Certification"
+    ],
+    "education": [
+      "MS, Computer Science",
+      "BS, Software Engineering",
+      "Advanced AI Studies"
+    ],
+    "social": {
+      "linkedin": "https://linkedin.com/in/rick-jefferson",
+      "github": "https://github.com/rickjefferson"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sarah Chen",
+    "role": "Head of AI Research",
+    "image": "/images/team/sarah-chen.jpg",
+    "bio": "Dr. Sarah Chen leads our AI research initiatives, focusing on developing advanced algorithms and improving our predictive analytics capabilities. Her expertise helps clients leverage cutting-edge AI solutions.",
+    "expertise": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Predictive Analytics",
+      "AI Strategy",
+      "Data Science"
+    ],
+    "certifications": [
+      "Ph.D. in Computer Science",
+      "Machine Learning Specialization",
+      "Deep Learning Certification",
+      "AI Ethics Certification"
+    ],
+    "education": [
+      "Ph.D., Computer Science",
+      "MS, Artificial Intelligence",
+      "BS, Mathematics"
+    ],
+    "social": {
+      "linkedin": "https://linkedin.com/in/sarah-chen",
+      "github": "https://github.com/sarahchen"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Marcus Rodriguez",
+    "role": "Lead Solutions Architect",
+    "image": "/images/team/marcus-rodriguez.jpg",
+    "bio": "Marcus Rodriguez specializes in designing and implementing complex automation solutions for enterprise clients. His expertise in system integration ensures seamless implementation of our AI solutions.",
+    "expertise": [
+      "Enterprise Integration",
+      "RPA Development",
+      "Cloud Architecture",
+      "System Design",
+      "API Development"
+    ],
+    "certifications": [
+      "Solutions Architecture Professional",
+      "Enterprise Integration Expert",
+      "Cloud Platform Certified",
+      "Automation Specialist"
+    ],
+    "education": [
+      "MS, Software Engineering",
+      "BS, Computer Science",
+      "Cloud Architecture Certification"
+    ],
+    "social": {
+      "linkedin": "https://linkedin.com/in/marcus-rodriguez",
+      "github": "https://github.com/marcusrodriguez"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Lisa Thompson",
+    "role": "Head of Client Success",
+    "image": "/images/team/lisa-thompson.jpg",
+    "bio": "Lisa Thompson ensures smooth implementation of our AI solutions and leads our client training and support initiatives. Her focus on client success has resulted in consistently high satisfaction rates.",
+    "expertise": [
+      "Client Relations",
+      "Project Management",
+      "Training Development",
+      "Change Management",
+      "Support Operations"
+    ],
+    "certifications": [
+      "Customer Success Management",
+      "Project Management Professional",
+      "Change Management Certified",
+      "AI Implementation Specialist"
+    ],
+    "education": [
+      "MBA, Business Administration",
+      "BS, Business Management",
+      "Client Success Certification"
+    ],
+    "social": {
+      "linkedin": "https://linkedin.com/in/lisa-thompson",
+      "twitter": "https://twitter.com/lisathompson"
+    }
+  }
+] 

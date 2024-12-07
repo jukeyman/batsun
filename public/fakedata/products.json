@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "title": "SEO Services - Optimize Your Online Presence",
+    "featured": true,
+    "price": 300,
+    "previousPrice": 500,
+    "date": "2024-12-05",
+    "bestSeller": true,
+    "status": "Available",
+    "collection": "Digital Marketing",
+    "type": "SEO",
+    "size": null,
+    "color": "N/A",
+    "availability": "In stock",
+    "productType": "Service",
+    "brand": "RJ Business Solutions",
+    "disc": 40,
+    "offer": "Special Bundle Pricing",
+    "reviews": 120,
+    "businessOwner": "Rick Jefferson",
+    "contact": {
+      "email": "rick@rjbizsolution.com",
+      "address": "1342 NM 333 STE C5254, Tijeras, NM 87059"
+    },
+    "services": [
+      "On-Page SEO Optimization",
+      "Keyword Research",
+      "Content Creation",
+      "Local SEO for Small Businesses",
+      "Analytics and Reporting"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Website Design & Development",
+    "featured": true,
+    "price": 1500,
+    "previousPrice": 2500,
+    "date": "2024-12-05",
+    "bestSeller": true,
+    "status": "Available",
+    "collection": "Web Services",
+    "type": "Website Development",
+    "size": null,
+    "color": "N/A",
+    "availability": "In stock",
+    "productType": "Service",
+    "brand": "RJ Business Solutions",
+    "disc": 40,
+    "offer": "Bundle with Hosting Services",
+    "reviews": 110,
+    "businessOwner": "Angel Lewis-Jefferson",
+    "contact": {
+      "email": "angel@rjbizsolution.com",
+      "address": "1342 NM 333 STE C5254, Tijeras, NM 87059"
+    },
+    "services": [
+      "Custom Website Design",
+      "E-Commerce Platforms",
+      "Mobile Optimization",
+      "Hosting and Domain Registration",
+      "Maintenance and Updates"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Email Marketing & Text Campaigns",
+    "featured": true,
+    "price": 500,
+    "previousPrice": 800,
+    "date": "2024-12-05",
+    "bestSeller": true,
+    "status": "Available",
+    "collection": "Marketing Services",
+    "type": "Campaign Management",
+    "size": null,
+    "color": "N/A",
+    "availability": "In stock",
+    "productType": "Service",
+    "brand": "RJ Business Solutions",
+    "disc": 37,
+    "offer": "Automated Campaign Solutions",
+    "reviews": 95,
+    "businessOwner": "Rick Jefferson",
+    "contact": {
+      "email": "rick@rjbizsolution.com",
+      "address": "1342 NM 333 STE C5254, Tijeras, NM 87059"
+    },
+    "services": [
+      "Automated Email Campaigns",
+      "Text Message Marketing",
+      "Lead Nurturing",
+      "Personalized Content Strategies",
+      "ROI and Engagement Analytics"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Custom AI Programming and Agents",
+    "featured": true,
+    "price": 2000,
+    "previousPrice": 3000,
+    "date": "2024-12-05",
+    "bestSeller": true,
+    "status": "Available",
+    "collection": "Technology Solutions",
+    "type": "AI Development",
+    "size": null,
+    "color": "N/A",
+    "availability": "In stock",
+    "productType": "Service",
+    "brand": "RJ Business Solutions",
+    "disc": 33,
+    "offer": "Revolutionize Your Business",
+    "reviews": 125,
+    "businessOwner": "Rick Jefferson",
+    "contact": {
+      "email": "rick@rjbizsolution.com",
+      "address": "1342 NM 333 STE C5254, Tijeras, NM 87059"
+    },
+    "services": [
+      "Custom-Built AI Solutions",
+      "Quantum-Agent Deployment",
+      "Workflow Automation",
+      "AI-Powered Lead Scoring",
+      "Chatbots and Virtual Assistants"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Social Media Management & Lead Generation",
+    "featured": true,
+    "price": 400,
+    "previousPrice": 600,
+    "date": "2024-12-05",
+    "bestSeller": true,
+    "status": "Available",
+    "collection": "Marketing Services",
+    "type": "Social Media",
+    "size": null,
+    "color": "N/A",
+    "availability": "In stock",
+    "productType": "Service",
+    "brand": "RJ Business Solutions",
+    "disc": 33,
+    "offer": "Boost Your Online Presence",
+    "reviews": 140,
+    "businessOwner": "Angel Lewis-Jefferson",
+    "contact": {
+      "email": "angel@rjbizsolution.com",
+      "address": "1342 NM 333 STE C5254, Tijeras, NM 87059"
+    },
+    "services": [
+      "Social Media Profile Optimization",
+      "Content Scheduling and Management",
+      "Targeted Advertising Campaigns",
+      "Google Reviews and Reputation Building",
+      "Lead Capture and Follow-Up Automation"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Business Insurance & Risk Management",
+    "featured": true,
+    "price": 750,
+    "previousPrice": 1000,
+    "date": "2024-12-05",
+    "bestSeller": true,
+    "status": "Available",
+    "collection": "Insurance Services",
+    "type": "Business Insurance",
+    "size": null,
+    "color": "N/A",
+    "availability": "In stock",
+    "productType": "Insurance",
+    "brand": "Vincent Greene Allstate Agency",
+    "disc": 25,
+    "offer": "Custom Coverage Options",
+    "reviews": 150,
+    "businessOwner": "Vincent Greene",
+    "contact": {
+      "email": "vince@rjbizsolution.com",
+      "address": "Mesquite, TX"
+    },
+    "services": [
+      "Comprehensive Business Insurance",
+      "Liability and Asset Protection",
+      "Workers' Compensation Plans",
+      "Compliance Solutions",
+      "Custom Policy Creation"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Call Center Creation & Setup",
+    "featured": true,
+    "price": 1200,
+    "previousPrice": 1800,
+    "date": "2024-12-05",
+    "bestSeller": true,
+    "status": "Available",
+    "collection": "Business Solutions",
+    "type": "Call Center",
+    "size": null,
+    "color": "N/A",
+    "availability": "In stock",
+    "productType": "Service",
+    "brand": "RJ Business Solutions",
+    "disc": 33,
+    "offer": "Streamline Customer Support",
+    "reviews": 100,
+    "businessOwner": "Rick Jefferson",
+    "contact": {
+      "email": "support@rjbizsolution.com",
+      "address": "1342 NM 333 STE C5254, Tijeras, NM 87059"
+    },
+    "services": [
+      "Custom Call Center Build-Outs",
+      "IVR and Routing Systems",
+      "AI-Driven Call Management",
+      "Training for Call Center Agents",
+      "Integration with CRM Tools"
+    ]
+  }
+]

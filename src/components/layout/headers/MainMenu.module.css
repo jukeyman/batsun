@@ -1,0 +1,221 @@
+.mainMenu {
+  position: relative;
+  z-index: 1000;
+}
+
+.mainMenuList {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 10px;
+}
+
+.menuItem {
+  position: relative;
+}
+
+.menuLink {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  color: #172B4D;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: none;
+  background: none;
+  cursor: pointer;
+  gap: 5px;
+}
+
+.menuLink:hover {
+  color: #0052CC;
+}
+
+.menuLink.active {
+  color: #0052CC;
+}
+
+.hasChildren .menuLink {
+  padding-right: 25px;
+}
+
+.submenuIcon {
+  font-size: 12px;
+  transition: transform 0.3s ease;
+  margin-left: 5px;
+}
+
+.submenuIcon.active {
+  transform: rotate(180deg);
+}
+
+.submenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  min-width: 220px;
+  padding: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: all 0.3s ease;
+  list-style: none;
+}
+
+.submenu.active {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.submenuItem {
+  padding: 0;
+  margin: 0;
+}
+
+.submenuLink {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  color: #5E6C84;
+  text-decoration: none;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  gap: 10px;
+}
+
+.submenuLink i {
+  font-size: 16px;
+  color: #0052CC;
+  opacity: 0.8;
+}
+
+.submenuLink:hover {
+  background: #F4F5F7;
+  color: #0052CC;
+}
+
+.submenuLink:hover i {
+  opacity: 1;
+}
+
+.submenuItem.active .submenuLink {
+  background: #F4F5F7;
+  color: #0052CC;
+}
+
+.mobileMenuButton {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 20px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 1001;
+}
+
+.mobileMenuButton span {
+  width: 100%;
+  height: 2px;
+  background: #172B4D;
+  transition: all 0.3s ease;
+}
+
+.mobileMenuButton.active span:nth-child(1) {
+  transform: translateY(9px) rotate(45deg);
+}
+
+.mobileMenuButton.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.mobileMenuButton.active span:nth-child(3) {
+  transform: translateY(-9px) rotate(-45deg);
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+@media (max-width: 991px) {
+  .mobileMenuButton {
+    display: flex;
+  }
+
+  .mainMenu {
+    position: fixed;
+    top: 0;
+    right: -300px;
+    width: 300px;
+    height: 100vh;
+    background: white;
+    padding: 80px 20px 20px;
+    transition: right 0.3s ease;
+    overflow-y: auto;
+  }
+
+  .mainMenu.active {
+    right: 0;
+  }
+
+  .mainMenuList {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .menuItem {
+    width: 100%;
+  }
+
+  .menuLink {
+    width: 100%;
+    justify-content: space-between;
+    padding: 15px 0;
+  }
+
+  .submenu {
+    position: static;
+    box-shadow: none;
+    padding-left: 20px;
+    display: none;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+  }
+
+  .submenu.active {
+    display: block;
+  }
+
+  .submenuLink {
+    padding: 10px 0;
+  }
+
+  .overlay {
+    display: block;
+  }
+}
+
+@media (min-width: 992px) {
+  .hasChildren:hover .submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+} 

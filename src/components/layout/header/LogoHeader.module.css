@@ -1,0 +1,63 @@
+.logo {
+  padding: 15px 0;
+}
+
+.logoContainer {
+  width: 180px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.logoImage {
+  max-width: 100%;
+  height: auto;
+  transition: all 0.3s ease;
+}
+
+.mainLogo {
+  composes: logoImage;
+  opacity: 1;
+}
+
+.lightLogo {
+  composes: logoImage;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  opacity: 0;
+}
+
+/* Logo switching for dark mode */
+:global([data-theme="dark"]) .mainLogo {
+  opacity: 0;
+}
+
+:global([data-theme="dark"]) .lightLogo {
+  opacity: 1;
+}
+
+/* Logo switching for transparent header */
+:global(.header-transparent) .mainLogo {
+  opacity: 0;
+}
+
+:global(.header-transparent) .lightLogo {
+  opacity: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .logoContainer {
+    width: 150px;
+    height: 50px;
+  }
+}
+
+/* Hover effect */
+.logoContainer:hover .logoImage {
+  transform: translateY(-50%) scale(1.02);
+} 

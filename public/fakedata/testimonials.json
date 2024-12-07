@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Martinez",
+    "role": "CEO",
+    "company": "TechStart Solutions",
+    "image": "/images/testimonials/sarah-martinez.jpg",
+    "rating": 5,
+    "testimonial": "RJ Business Solutions transformed our startup with their AI implementation. Our customer response time improved by 85%, and we've seen a 40% reduction in operational costs. Their team's expertise in both AI and business operations made the transition seamless.",
+    "services": ["AI Implementation", "Process Automation"],
+    "results": {
+      "efficiency": "+85%",
+      "costReduction": "40%",
+      "timeframe": "3 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "Michael Chang",
+    "role": "Owner",
+    "company": "Chang's Restaurant Group",
+    "image": "/images/testimonials/michael-chang.jpg",
+    "rating": 5,
+    "testimonial": "Opening multiple restaurant locations seemed impossible until we partnered with RJ Business Solutions. Their business formation and payroll services streamlined everything. We've grown from 2 to 6 locations in just 18 months.",
+    "services": ["Business Formation", "Payroll & HR"],
+    "results": {
+      "locations": "4 new",
+      "employees": "120+",
+      "timeframe": "18 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 3,
+    "name": "Jennifer Williams",
+    "role": "Director",
+    "company": "Creative Solutions Agency",
+    "image": "/images/testimonials/jennifer-williams.jpg",
+    "rating": 5,
+    "testimonial": "The strategic growth consulting from RJ Business Solutions helped us identify untapped markets and optimize our service offerings. Our revenue has grown by 150% in just one year.",
+    "services": ["Strategic Growth", "Business Consulting"],
+    "results": {
+      "revenue": "+150%",
+      "marketShare": "+35%",
+      "timeframe": "12 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "David Rodriguez",
+    "role": "CEO",
+    "company": "Southwest Construction Co.",
+    "image": "/images/testimonials/david-rodriguez.jpg",
+    "rating": 5,
+    "testimonial": "Their insurance and risk management services have been invaluable. We saved 30% on premiums while getting better coverage. Their expertise in construction industry requirements is outstanding.",
+    "services": ["Insurance Services", "Risk Management"],
+    "results": {
+      "coverage": "Enhanced",
+      "savings": "30%",
+      "timeframe": "2 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 5,
+    "name": "Lisa Thompson",
+    "role": "Founder",
+    "company": "MomPreneur Success",
+    "image": "/images/testimonials/lisa-thompson.jpg",
+    "rating": 5,
+    "testimonial": "The MomEntrepreneur community and business support have been game-changing. Their guidance helped me launch and scale my online business while maintaining work-life balance.",
+    "services": ["Business Formation", "Community Support"],
+    "results": {
+      "growth": "+200%",
+      "community": "Active Member",
+      "timeframe": "9 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 6,
+    "name": "Robert Chen",
+    "role": "CTO",
+    "company": "DataFlow Analytics",
+    "image": "/images/testimonials/robert-chen.jpg",
+    "rating": 5,
+    "testimonial": "Their AI solutions revolutionized our data analytics service. Implementation was smooth, and the results exceeded our expectations. Customer satisfaction increased by 60%.",
+    "services": ["AI Implementation", "Process Automation"],
+    "results": {
+      "efficiency": "+75%",
+      "satisfaction": "+60%",
+      "timeframe": "4 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 7,
+    "name": "Amanda Foster",
+    "role": "HR Director",
+    "company": "Global Innovations Inc",
+    "image": "/images/testimonials/amanda-foster.jpg",
+    "rating": 5,
+    "testimonial": "The payroll and HR automation systems have transformed our human resources operations. Processing time reduced by 90% and employee satisfaction is at an all-time high.",
+    "services": ["Payroll & HR", "Process Automation"],
+    "results": {
+      "efficiency": "+90%",
+      "satisfaction": "95%",
+      "timeframe": "2 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 8,
+    "name": "Carlos Mendez",
+    "role": "Owner",
+    "company": "Mendez Manufacturing",
+    "image": "/images/testimonials/carlos-mendez.jpg",
+    "rating": 5,
+    "testimonial": "RJ Business Solutions helped us secure crucial government contracts and grants. Their guidance through the certification process was invaluable.",
+    "services": ["Grants & Funding", "Business Development"],
+    "results": {
+      "funding": "$2.5M",
+      "contracts": "3 secured",
+      "timeframe": "6 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 9,
+    "name": "Patricia Lee",
+    "role": "CEO",
+    "company": "HealthTech Solutions",
+    "image": "/images/testimonials/patricia-lee.jpg",
+    "rating": 5,
+    "testimonial": "Their expertise in healthcare compliance and AI implementation helped us develop innovative patient care solutions while maintaining strict regulatory compliance.",
+    "services": ["AI Implementation", "Compliance"],
+    "results": {
+      "compliance": "100%",
+      "efficiency": "+65%",
+      "timeframe": "5 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 10,
+    "name": "Marcus Johnson",
+    "role": "Founder",
+    "company": "EcoSmart Solutions",
+    "image": "/images/testimonials/marcus-johnson.jpg",
+    "rating": 5,
+    "testimonial": "From business formation to securing green energy grants, RJ Business Solutions has been instrumental in our success. Their comprehensive support made everything possible.",
+    "services": ["Business Formation", "Grants & Funding"],
+    "results": {
+      "funding": "$1.8M",
+      "growth": "+180%",
+      "timeframe": "12 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 11,
+    "name": "Rachel Kim",
+    "role": "Operations Director",
+    "company": "LogisticsPro",
+    "image": "/images/testimonials/rachel-kim.jpg",
+    "rating": 5,
+    "testimonial": "The automation solutions provided by RJ Business Solutions streamlined our entire logistics operation. Tracking accuracy improved dramatically and costs decreased.",
+    "services": ["Process Automation", "Strategic Growth"],
+    "results": {
+      "accuracy": "99.9%",
+      "savings": "45%",
+      "timeframe": "4 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 12,
+    "name": "Thomas Wright",
+    "role": "CEO",
+    "company": "Wright Financial Services",
+    "image": "/images/testimonials/thomas-wright.jpg",
+    "rating": 5,
+    "testimonial": "Their AI-powered financial analysis tools have given us a competitive edge. Client satisfaction has increased significantly, and our service delivery is more efficient than ever.",
+    "services": ["AI Implementation", "Strategic Growth"],
+    "results": {
+      "clientGrowth": "+75%",
+      "efficiency": "+60%",
+      "timeframe": "6 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 13,
+    "name": "Maria Sanchez",
+    "role": "Founder",
+    "company": "Artisan Goods Market",
+    "image": "/images/testimonials/maria-sanchez.jpg",
+    "rating": 5,
+    "testimonial": "The MomEntrepreneur program and e-commerce solutions helped me turn my hobby into a thriving business. Their support was crucial in scaling my operations.",
+    "services": ["E-commerce", "Business Development"],
+    "results": {
+      "sales": "+300%",
+      "reach": "National",
+      "timeframe": "8 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 14,
+    "name": "James Wilson",
+    "role": "Director",
+    "company": "EdTech Innovations",
+    "image": "/images/testimonials/james-wilson.jpg",
+    "rating": 5,
+    "testimonial": "RJ Business Solutions helped us implement AI-powered learning systems and secure education sector grants. Their understanding of both technology and education was invaluable.",
+    "services": ["AI Implementation", "Grants & Funding"],
+    "results": {
+      "funding": "$1.2M",
+      "growth": "+200%",
+      "timeframe": "10 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 15,
+    "name": "Sophie Anderson",
+    "role": "Owner",
+    "company": "Wellness Center Plus",
+    "image": "/images/testimonials/sophie-anderson.jpg",
+    "rating": 5,
+    "testimonial": "Their business formation and insurance services made opening multiple wellness centers seamless. The ongoing support has been exceptional.",
+    "services": ["Business Formation", "Insurance Services"],
+    "results": {
+      "locations": "3 new",
+      "coverage": "Complete",
+      "timeframe": "7 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 16,
+    "name": "Kevin Patel",
+    "role": "CTO",
+    "company": "SecureNet Solutions",
+    "image": "/images/testimonials/kevin-patel.jpg",
+    "rating": 5,
+    "testimonial": "The AI security solutions and compliance support have helped us develop cutting-edge cybersecurity services while maintaining regulatory compliance.",
+    "services": ["AI Implementation", "Compliance"],
+    "results": {
+      "security": "Enhanced",
+      "compliance": "100%",
+      "timeframe": "5 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 17,
+    "name": "Laura Martinez",
+    "role": "CEO",
+    "company": "Green Energy Solutions",
+    "image": "/images/testimonials/laura-martinez.jpg",
+    "rating": 5,
+    "testimonial": "RJ Business Solutions helped us navigate complex regulations and secure crucial environmental grants. Their expertise in sustainable business practices is outstanding.",
+    "services": ["Compliance", "Grants & Funding"],
+    "results": {
+      "grants": "$2.2M",
+      "projects": "4 launched",
+      "timeframe": "9 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 18,
+    "name": "Daniel Kim",
+    "role": "Founder",
+    "company": "FoodTech Innovations",
+    "image": "/images/testimonials/daniel-kim.jpg",
+    "rating": 5,
+    "testimonial": "Their AI solutions helped us optimize our food delivery platform, while their business development services helped us expand to new markets.",
+    "services": ["AI Implementation", "Business Development"],
+    "results": {
+      "efficiency": "+70%",
+      "expansion": "5 cities",
+      "timeframe": "8 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 19,
+    "name": "Emily Chen",
+    "role": "Director",
+    "company": "ArtificialMinds Academy",
+    "image": "/images/testimonials/emily-chen.jpg",
+    "rating": 5,
+    "testimonial": "RJ Business Solutions' expertise in AI and education helped us create innovative learning programs. Their grant assistance was crucial for our research initiatives.",
+    "services": ["AI Implementation", "Grants & Funding"],
+    "results": {
+      "programs": "12 launched",
+      "funding": "$1.5M",
+      "timeframe": "11 months"
+    },
+    "verified": true
+  },
+  {
+    "id": 20,
+    "name": "Michael Brooks",
+    "role": "CEO",
+    "company": "RetailTech Solutions",
+    "image": "/images/testimonials/michael-brooks.jpg",
+    "rating": 5,
+    "testimonial": "The retail automation solutions and strategic guidance have helped us stay competitive in the digital age. Our online sales have increased dramatically.",
+    "services": ["Process Automation", "Strategic Growth"],
+    "results": {
+      "sales": "+250%",
+      "efficiency": "+80%",
+      "timeframe": "6 months"
+    },
+    "verified": true
+  }
+] 
