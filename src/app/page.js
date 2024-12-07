@@ -11,7 +11,12 @@ export default function Home() {
   return (
     <PageWrapper>
       <ThemeController />
-      <IndexMain />
+      <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <div className="text-center">
+          <h1 className="text-4xl font-bold mb-4">RJ Business Solutions</h1>
+          <p className="text-xl">Welcome to our site</p>
+        </div>
+      </main>
     </PageWrapper>
   );
 }
