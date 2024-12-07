@@ -9,14 +9,42 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <PageWrapper>
-      <ThemeController />
-      <main className="flex min-h-screen flex-col items-center justify-between p-24">
-        <div className="text-center">
-          <h1 className="text-4xl font-bold mb-4">RJ Business Solutions</h1>
-          <p className="text-xl">Welcome to our site</p>
+    <div className="min-h-screen bg-gray-100">
+      <main className="container mx-auto px-4 py-8">
+        <div className="bg-white rounded-lg shadow-lg p-8 max-w-4xl mx-auto">
+          <h1 className="text-4xl font-bold text-blue-600 mb-6">
+            RJ Business Solutions
+          </h1>
+          
+          <div className="grid md:grid-cols-2 gap-8 mb-8">
+            <div>
+              <h2 className="text-2xl font-semibold mb-4">Our Services</h2>
+              <ul className="space-y-2">
+                <li>✓ Business Formation</li>
+                <li>✓ Grants & Funding</li>
+                <li>✓ AI Solutions</li>
+                <li>✓ Business Consulting</li>
+              </ul>
+            </div>
+            
+            <div>
+              <h2 className="text-2xl font-semibold mb-4">Why Choose Us</h2>
+              <ul className="space-y-2">
+                <li>✓ Expert Guidance</li>
+                <li>✓ Proven Results</li>
+                <li>✓ Personalized Service</li>
+                <li>✓ Innovative Solutions</li>
+              </ul>
+            </div>
+          </div>
+          
+          <div className="text-center">
+            <button className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors">
+              Contact Us Today
+            </button>
+          </div>
         </div>
       </main>
-    </PageWrapper>
-  );
+    </div>
+  )
 }
